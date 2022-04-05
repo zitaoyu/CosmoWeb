@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CosmoWeb/static/css/main.da27a9a7.chunk.css",
-    "main.js": "/CosmoWeb/static/js/main.1004ddd5.chunk.js",
-    "main.js.map": "/CosmoWeb/static/js/main.1004ddd5.chunk.js.map",
+    "main.js": "/CosmoWeb/static/js/main.e979ff8b.chunk.js",
+    "main.js.map": "/CosmoWeb/static/js/main.e979ff8b.chunk.js.map",
     "runtime-main.js": "/CosmoWeb/static/js/runtime-main.4d15c1ee.js",
     "runtime-main.js.map": "/CosmoWeb/static/js/runtime-main.4d15c1ee.js.map",
     "static/js/2.3da0c1bf.chunk.js": "/CosmoWeb/static/js/2.3da0c1bf.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.4d15c1ee.js",
     "static/js/2.3da0c1bf.chunk.js",
     "static/css/main.da27a9a7.chunk.css",
-    "static/js/main.1004ddd5.chunk.js"
+    "static/js/main.e979ff8b.chunk.js"
   ]
 }
