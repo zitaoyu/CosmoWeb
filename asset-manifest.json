@@ -1,24 +1,22 @@
 {
   "files": {
-    "main.css": "/CosmoWeb/static/css/main.a3900bf1.chunk.css",
-    "main.js": "/CosmoWeb/static/js/main.c133a47c.chunk.js",
-    "main.js.map": "/CosmoWeb/static/js/main.c133a47c.chunk.js.map",
+    "main.css": "/CosmoWeb/static/css/main.777ca023.chunk.css",
+    "main.js": "/CosmoWeb/static/js/main.f0d6a9b2.chunk.js",
+    "main.js.map": "/CosmoWeb/static/js/main.f0d6a9b2.chunk.js.map",
     "runtime-main.js": "/CosmoWeb/static/js/runtime-main.4d15c1ee.js",
     "runtime-main.js.map": "/CosmoWeb/static/js/runtime-main.4d15c1ee.js.map",
     "static/js/2.a11b2f3c.chunk.js": "/CosmoWeb/static/js/2.a11b2f3c.chunk.js",
     "static/js/2.a11b2f3c.chunk.js.map": "/CosmoWeb/static/js/2.a11b2f3c.chunk.js.map",
     "index.html": "/CosmoWeb/index.html",
-    "static/css/main.a3900bf1.chunk.css.map": "/CosmoWeb/static/css/main.a3900bf1.chunk.css.map",
+    "static/css/main.777ca023.chunk.css.map": "/CosmoWeb/static/css/main.777ca023.chunk.css.map",
     "static/js/2.a11b2f3c.chunk.js.LICENSE.txt": "/CosmoWeb/static/js/2.a11b2f3c.chunk.js.LICENSE.txt",
     "static/media/face_big.0a1da2a3.png": "/CosmoWeb/static/media/face_big.0a1da2a3.png",
-    "static/media/kiss.084f4cdc.png": "/CosmoWeb/static/media/kiss.084f4cdc.png",
-    "static/media/sitting.f4a86829.png": "/CosmoWeb/static/media/sitting.f4a86829.png",
-    "static/media/sleeping.4e1d319a.jpg": "/CosmoWeb/static/media/sleeping.4e1d319a.jpg"
+    "static/media/sitting.f4a86829.png": "/CosmoWeb/static/media/sitting.f4a86829.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4d15c1ee.js",
     "static/js/2.a11b2f3c.chunk.js",
-    "static/css/main.a3900bf1.chunk.css",
-    "static/js/main.c133a47c.chunk.js"
+    "static/css/main.777ca023.chunk.css",
+    "static/js/main.f0d6a9b2.chunk.js"
   ]
 }
